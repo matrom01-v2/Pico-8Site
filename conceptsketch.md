@@ -63,12 +63,13 @@ Levels will work like that similar to Black Ops Zombies. Waves of enemies will a
 ---
 
 ## **Characters**
+
 </br>
 
 ### Character design and Types
 ### Player Character: Katarina
 
-![playercharacter](./images/plrc.png)
+![playercharacter]
 
 ### Attributes: (see controls)
     - Basic attack
