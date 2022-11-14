@@ -1,1 +1,1 @@
-For game code, please see sinsteel.p8!
+For game code, please see realsteel1.p8!
