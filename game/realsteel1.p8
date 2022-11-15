@@ -181,8 +181,7 @@ end
 
 function update_game()
 -- movement
-	palt(0,false)
- if dead==false then 
+	palt(0,false) if dead==false then 
   if btn(⬅️) then
   p.x=mid(0,p.x-1,127)
   p.left=true
@@ -313,6 +312,7 @@ function update_game()
    e.y+=e.sy*0.75
    if abs(e.x-p.x)<2 and abs(e.y-p.y)<2 then -- enemy contact
     dead=true 
+    palt(0,false)
     if score>=highscore then
      highscore=score
     end   
