@@ -8,9 +8,9 @@ Sinister Steel is a simple top-down battle arena that gets more intense with eac
 
 ### **Vision**
 
-This game utilizes a character from the game League of Legends. The game is centered around Katarina, an assassin known for having style and finesse with blades. Gameplay involves the player as Katarina, surrounded by enemies, and then the player must then fight off enemies as they come in waves. Similar to League, as the player continues battle to they will "level up" unlocking more abilities to use. This game is different from league as it is very fast paced and intense early. The abilities will stay the same, once level 4 is reached, the player unlocks their ultamite ability. 
+This game utilizes a character from the game League of Legends. The game is centered around Katarina, an assassin known for having style and finesse with blades. Gameplay involves the player as Katarina, surrounded by enemies, and then the player must then fight off enemies as they come in waves.  This game is different from league as it is very fast paced and intense early. There are 2 main forms of attack, and one ability.
 
-The mechanics revolve around the use of Katarina's blades. Starting out, the player can only simple attack, spinning in a circle and hitting all enemies around them. One ability causes blades to linger on the ground, Katarina can then go to the blade and automatically spin to attack in a slightly larger area of effect. 
+The mechanics revolve around the use of Katarina's blades. The 2 forms of attack are as follows: the player can left click to throw knife projectiles and right like to spin in a circle and hitting all enemies around them. Projectiles causes blades to linger on the ground if an enemy is killed, Katarina can then go to the blade and automatically spin attack to attack in an area of effect. 
 
 The setting of the game is simply a battlefield in which Katarina has found herself surrounded by enemies. Now, it is time to style on them. Since this is a fantasy world, there may be enemies that use magical abilities. The map and setting remain the same, only the difficulty and amount of enemies change as time goes on.
 
@@ -21,10 +21,10 @@ The game is made in PICO-8 so, visuals are simple. There are limits to pixel art
 ## **Gameplay**
 
 ### **Overview**
-Gameplay here includes the player starting the first wave. Enemies will begin surrounding the player and forcing combat. Early on, the enemies will be weak, dying in one-hit and leaving more time before attempting to inflict damage on the player. The player can only do one attack in the first round, spinning in a circle to do damage in a small circle around them. As the player continuously gets kills, they will build towards leveling up, and unlocking one of Katarina's abilities. The player has a 360 degree map to move on with plenty of room to dodge enemies as necessary. However, it is encouraged to continuously engage in combat as the amount of enemies spawned will continue to ramp up. 
+Gameplay here includes the player starting the first wave. Enemies will begin surrounding the player and forcing combat. Early on, the enemies will spawn in smaller waves that progressively increase in intensity. AOE attacks will become vital as enemy spawns progerssively get larger in quantitiy.
 
 ### **Description**
-The player begins the round by pressing a button (yet to be determined). The player will start in the center of the map and enemies will begin to surround. the player can then move or sit still and attack enemies as they get close. There will be a fixed amount of enemies for each round, after the player removes all enemies, the next wave will begin. Abilities include: Katarina can now throw knives. Thrown knives will damage enemies and linger on the ground, (used for a future abiility). If Katarina goes to a knife, she will pick it up and do the same circle attack around in a slightly larger AOE. Shunpo: the ability to instantly teleport to a knife and automatically attack in an even larger AOE around her. The final  ability is Katarina's ultimate: Death Lotus. This ability will have a cooldown. Katarina will stay in place for a few seconds and continuosly spin throwing blades in all directions. ALL these blades will linger after for Kataring to shunpo to after. 
+The player begins the round by pressing a button (yet to be determined). The player will start in the center of the map and enemies will begin to surround. the player can then move or sit still and attack enemies as they get close. There will be a fixed amount of enemies for each round, after the player removes all enemies, the next wave will begin. Attacks include: Katarina can now throw knives. Thrown knives will damage enemies and linger on the ground, (used for a future abiility). If Katarina goes to a knife, she will pick it up and do the same circle attack around in a slightly larger AOE. Shunpo: the ability to instantly teleport to a knife and automatically attack in an even larger AOE around her. The final  ability is Katarina's ultimate: Death Lotus. 
 
 ### **Controls**
 The player will use the following control scheme:
@@ -36,25 +36,16 @@ The player will use the following control scheme:
 |    Down    |   | Move Down|
 |     Left   |   | Move left|
 |     Right  |   | Move right|
-|   X        |   | Attack/Ability
-|   C        |   | Change ability
+| Left mouse| | Throw Knife
+| Right Mouse | |AOE attack
+|   X        |   | Shunpo/Teleport|
 
 - These simple controls and combine of controls will allow for more free combo building for the player.
 
 
-**Ability1**: Lingering Blade, Katarina throws a knife that pierces enemies, and stays on the ground after one enemy is hit.
-
-**Ability2**: Preparation, Katarina leaves a knife where she is standing.
-
-**Ability3**: Shunpo, Katarina will instantly teleport to the closest blade.
-
-**Ultimate**: Death Lotus, Katarina stands in place and throws knives in all directions for 3 seconds.
+**Shunpo**: Katarina will teleport to the closest knife, picking it up and auto attacking with second ability
 
 ---
-
-### **Levels**
-
-Levels will work like that similar to Black Ops Zombies. Waves of enemies will approach and the player levels up Katarina as they full clear waves of enemies. Rounds will continuosly gain difficulty and the game ends with the death of the player.
 
 ### **Flow chart**
 
@@ -99,17 +90,6 @@ Levels will work like that similar to Black Ops Zombies. Waves of enemies will a
         Will always follow player
 </br>
 
-### NPC: Legion Archer (no image yet)
-    - Basic attack
-        ranged
-
-    - Low health
-        Will stay a fixed distance from player
-
-### Behaivior
-    - Ranged
-        Constantly attacking player with arrows
-        Will attempt to distance themselves from player
 ---
 ## **World Overview**
 

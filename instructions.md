@@ -9,12 +9,14 @@
 |    Down      |   | Move Down|
 |     Left    |   | Move left|
 |     Right   |   | Move right|
-|   X | | Attack/Ability
-|   C || Change ability
+| Left Mouse || Throw Knife
+| Right Mouse || AOE attack
+|   X | | Shunpo
+
 
 - Note: These controls are subject to change
 ---
-### Known bugs: Right mouse attack does not connect with enemies
+### Known bugs: Right mouse attack does not connect with enemies or work at all.
 
 Game demo:
 
