@@ -16,7 +16,8 @@
 
 - Note: These controls are subject to change
 ---
-### Known bugs: Right mouse attack does not connect with enemies or work at all.
+### Known bugs: 
+- Visual bug where AOE attack animation appears even though ability is on cooldown
 
 Game demo:
 
