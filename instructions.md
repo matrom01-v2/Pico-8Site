@@ -5,13 +5,13 @@
 | Key        |   | Action   |
 |------------|---|----------| 
 |            |   |          |
-|     Up     |   | Move Up  |
-|    Down      |   | Move Down|
-|     Left    |   | Move left|
-|     Right   |   | Move right|
+|     Up/E    |   | Move Up  |
+|    Down/D      |   | Move Down|
+|     Left/S    |   | Move left|
+|     Right/F   |   | Move right|
 | Left Mouse || Throw Knife
-| Right Mouse || AOE attack
-|   X | | Shunpo
+| Right Mouse || Shunpo
+
 
 
 - Note: These controls are subject to change
