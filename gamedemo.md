@@ -4,7 +4,10 @@
 
 
 <br>
+Game Logo:
+
+<img src="./images/realsteel1_1.gif" alt="Animated logo for Sinister Steel." width="400"/>
 
 ### Game Demo | Link Release
 ---
-[Sinister Steel](/game/realsteel1.html) \| [v0.2](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.3)
+[Sinister Steel](/game/realsteel1.html) \| [v0.3](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.3)
