@@ -4,17 +4,17 @@
 
 
 ### **Log line**
-Sinister Steel is a simple top-down battle arena that gets more intense with each round.
+Sinister Steel is a simple top-down battle arena that gets more intense as time goes on.
 
 ### **Vision**
 
-This game utilizes a character from the game League of Legends. The game is centered around Katarina, an assassin known for having style and finesse with blades. Gameplay involves the player as Katarina, surrounded by enemies, and then the player must then fight off enemies as they come in waves.  This game is different from league as it is very fast paced and intense early. There are 2 main forms of attack, and one ability.
+This game primarily features a character from the game League of Legends. The game is centered around Katarina, an assassin known for having style and finesse with blades. Gameplay involves the player as Katarina, surrounded by enemies, and then the player must then fight off enemies as they come in waves. There are 2 main forms of attack: a thrown projectile knife, and a teleport Area of Effect (AOE) attack.
 
-The mechanics revolve around the use of Katarina's blades. The 2 forms of attack are as follows: the player can left click to throw knife projectiles and right like to spin in a circle and hitting all enemies around them. Projectiles causes blades to linger on the ground if an enemy is killed, Katarina can then go to the blade and automatically spin attack to attack in an area of effect. 
+The mechanics revolve around the use of Katarina's blades. The 2 forms of attack are as follows: the player can left click to throw knife projectiles and right click to teleport to the thrown knife as it lands. Katarina will then spin in a circle and strike all enemies around her in an AOE. Projectiles causes blades to linger on the ground if an enemy is killed and ONLY when killed.
 
-The setting of the game is simply a battlefield in which Katarina has found herself surrounded by enemies. Now, it is time to style on them. Since this is a fantasy world, there may be enemies that use magical abilities. The map and setting remain the same, only the difficulty and amount of enemies change as time goes on.
+The setting of the game is simply a battlefield in which Katarina has found herself surrounded by enemies. Now, it is time to style on them. The map and setting remain the same, only the difficulty and amount of enemies change as time goes on.
 
-The game is made in PICO-8 so, visuals are simple. There are limits to pixel art, but hopefully the movement of enemies and the player will feel fluid enough to add to the overal atmosphere and feel of Katarina's character. Like in League of Legends, as Katarina gets more powerful, her speed grows exponentially. This game should feel similar in that it is very fast past, however with little room for error. Players must think of where to continue to attack enemies without leaving themselves exposed to damage, as one hit will kill the player, ending their run.
+The game is made in PICO-8 so, visuals are simple. There are limits to pixel art, but hopefully the movement of enemies and the player will feel fluid enough to add to the overal atmosphere and feel of Katarina's character. This game should feel similar in that it is very fast past, however with very little room for error. Players must think of where to continue to attack enemies without leaving themselves exposed to damage, as one hit will kill the player, ending their run.
 
 ----
 
@@ -32,13 +32,13 @@ The player will use the following control scheme:
 | Key        |   | Action   |
 |------------|---|----------| 
 |            |   |          |
-|     Up     |   | Move Up  |
-|    Down    |   | Move Down|
-|     Left   |   | Move left|
-|     Right  |   | Move right|
+|     Up/E     |   | Move Up  |
+|    Down/S    |   | Move Down|
+|     Left/A   |   | Move left|
+|     Right/D  |   | Move right|
 | Left mouse| | Throw Knife
-| Right Mouse | |AOE attack
-|   X        |   | Shunpo/Teleport|
+| Right Mouse | | Shunpo
+
 
 - These simple controls and combine of controls will allow for more free combo building for the player.
 
@@ -47,11 +47,9 @@ The player will use the following control scheme:
 
 ---
 
-### **Flow chart**
 
-![flowchart](./images/flowchart.png)
-
----
+<br>
+<br>
 
 ## **Characters**
 
@@ -60,7 +58,7 @@ The player will use the following control scheme:
 ### Character design and Types
 ### Player Character: Katarina
 
-![playercharacter]
+![playercharacter](./images/katart.png)
 
 ### Attributes: (see controls)
     - Basic attack
@@ -71,7 +69,7 @@ The player will use the following control scheme:
     - Shunpo 
         teleport to knife
 
-    - Ultimate 
+    - Ultimate (not yet implemented)
         throw constant knives in a circle
 
 ### NPC: Legion Guard
@@ -120,7 +118,7 @@ These are the main interface assets intended:
 - Start menu
     - This menu is where players can wither begin the game, or choose to see the iu
     instructions screen
-- Instructions screen
+- Instructions screen (not yet implemeted)
     - This screen will have a list of controls and gameplay overview
 - In-game ability tracker
     - This is a simple display in game UI to show the player whihc ability they have currently selected

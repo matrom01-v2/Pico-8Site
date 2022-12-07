@@ -15,3 +15,5 @@ Welcome!
 :: [Concept Sketch](http://matrom01-v2.github.io/Pico-8Site/conceptsketch)
 
 :: [Game Instructions](http://matrom01-v2.github.io/Pico-8Site/instructions)
+
+:: [Game and Demo](http://matrom01-v2.github.io/Pico-8Site/gamedemo)

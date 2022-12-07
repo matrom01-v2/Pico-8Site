@@ -23,6 +23,6 @@ Game demo:
 
 <img src="./images/sinsteel_logo.gif" alt="Animated logo for Sinister Steel." width="128"/>
 
-[Sinister Steel](/game/realsteel1.html) \| [v0.2](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.2)
+
 
 
