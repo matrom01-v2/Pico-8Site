@@ -4,7 +4,9 @@
 
 
 <br>
-Game Logo:
+
+### Game Logo:
+---
 
 <img src="./images/realsteel1_1.gif" alt="Animated logo for Sinister Steel." width="400"/>
 
