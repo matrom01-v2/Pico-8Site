@@ -6,7 +6,7 @@
 Welcome!
 ---
 
-> This is the home page for [insert-game-name-here] 
+> This is the home page for **Sinister Steel**
 
 ### Links to get around
 ---
